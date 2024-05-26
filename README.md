@@ -3,7 +3,7 @@
 <h3 align="center">A passionate SDE from India | Microsoft | EX-Amazon</h3>
 
 
-- 🔭 I’m currently working on [Spring-Cloud](https://github.com/iamsurajitmishra/Spring-Cloud-microservices/tree/master)
+- 🔭 I’m currently working on [Scalable-Microservices-With-Spring-Cloud](https://github.com/iamsurajitmishra/Spring-Cloud-microservices/tree/master)
 
 - 🌱 I’m currently learning **System Design, Machine Learning, Full Stack**
 
