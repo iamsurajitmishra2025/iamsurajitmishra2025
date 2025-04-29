@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamsurajitmishra](https://github.com/iamsurajitmishra)
 
-- 📝 I write articles on [https://medium.com/@mishrasurajit69](https://medium.com/@mishrasurajit69)
+- 📝 I write articles on [https://thisissurajitmishra.medium.com/](https://thisissurajitmishra.medium.com/)
 
 - 💬 Ask me about **Data Structure and Algorithm, Java, Spring Boot, System Design,**
 
